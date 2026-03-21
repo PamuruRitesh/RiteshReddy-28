@@ -3,11 +3,7 @@
 <h3 align="center">Full-Stack Developer • IoT Builder • Systems Thinker</h3>
 
 <p align="center">
-🚀 Building real-world systems where software meets hardware  
-</p>
-
-<p align="center">
-🚀 Turning ideas into scalable systems where hardware meets software  
+🚀 Building real-world and scalable systems  where software meets hardware  
 </p>
 
 ---
