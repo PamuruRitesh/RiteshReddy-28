@@ -1,8 +1,9 @@
+<h1 align="center">Hi 👋, I'm Pamuru Ritesh Reddy</h1>
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">Full-Stack Developer • IoT Builder • Systems Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Real-World+Systems;Full-Stack+%2B+IoT+Integration;Learning+System+Design+%26+DevOps" />
+🚀 Building real-world systems where software meets hardware  
 </p>
 
 <p align="center">
