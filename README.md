@@ -62,12 +62,6 @@ Node-RED + Arduino based system for live sensor data
 
 ---
 
-## 🧩 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PamuruRitesh&theme=react-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## ⚡ Philosophy
