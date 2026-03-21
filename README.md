@@ -51,14 +51,6 @@
 ### 🔌 IoT & Embedded
 <p>
 <img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://img.shields.io/badge/NodeMCU-ESP8266-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sensors-IR%20%7C%20MQ2%20%7C%20RFID-green?style=for-the-badge"/>
-</p>
-
-### 🔄 Real-Time & Communication
-<p>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Tools & DevOps
