@@ -100,7 +100,7 @@
 
 ## ⚡ Philosophy
 
--I build systems where hardware and software work together to solve real-world problems.
+- I build systems where hardware and software work together to solve real-world problems.
 
 ---
 
