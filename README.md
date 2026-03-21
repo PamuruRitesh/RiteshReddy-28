@@ -90,7 +90,7 @@
 
 ## ⚡ Philosophy
 
-> "I build systems where hardware and software work together to solve real problems."
+- "I build systems where hardware and software work together to solve real problems."
 
 ---
 
