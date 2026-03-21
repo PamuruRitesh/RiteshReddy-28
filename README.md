@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pamuru Ritesh Reddy</h1>
-<h1 align="center">Hi 👋, I'm Ritesh</h1>
+
 <h3 align="center">Full-Stack Developer • IoT Builder • Systems Thinker</h3>
 
 <p align="center">
